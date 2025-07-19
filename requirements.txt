@@ -8,3 +8,4 @@ bcrypt
 yagmail
 python-dotenv
 streamlit-extras
+fpdf
