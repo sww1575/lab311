@@ -7,3 +7,4 @@ numpy
 bcrypt
 yagmail
 python-dotenv
+streamlit-extras
