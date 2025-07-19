@@ -1,6 +1,6 @@
 
 streamlit
-sqlalchemy==2.0.30
+sqlalchemy
 pandas
 numpy
 bcrypt
